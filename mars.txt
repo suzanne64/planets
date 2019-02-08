@@ -1,3 +1,6 @@
 cold and dry, but it would probably be a cool spot
+<<<<<<< HEAD
 but too far away
 but a pretty red
+=======
+>>>>>>> parent of 733294f... added a line
